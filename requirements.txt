@@ -1,0 +1,6 @@
+requests
+json
+langchain
+fastapi
+fastapi.middleware.cors
+
